@@ -11,6 +11,12 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary: '#A29875;',
+        secondary: '#787054;',
+       borderRadius: {
+        '3xl': '2rem',
+        '4xl': '3rem',
+       },
       },
     },
   },
